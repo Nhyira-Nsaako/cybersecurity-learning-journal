@@ -18,7 +18,6 @@ The goal is to move from **theory → applied security → real-world problem so
 - CIA Triad (Confidentiality, Integrity, Availability)  
 - Authentication and Non-repudiation *(to be added)*  
 
----
 
 ### Security Processes
 - Risk Assessment  
